@@ -103,7 +103,7 @@ You can copy, modify, distribute and perform the work, even for commercial purpo
 ## Contact
 
 * Grant Smith - [@grjsmith](https://twitter.com/grjsmith) - grant@nextgendevops.com
-* Project Link: [https://github.com/grjsmith/Neon-Synthwave-Clock](https://github.com/grjsmith/Neon-Synthwave-Gauges)
+* Project Link: [https://github.com/grjsmith/Neon-Synthwave-Clock](https://github.com/grjsmith/Neon-Synthwave-Clock)
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
