@@ -13,7 +13,8 @@
 <div align="center">
   <a href="https://github.com/grjsmith/Neon-Synthwave-Clock"><img src="images/Neon_Synthwave_Clock.png" alt="screenshot of Neon Synthwave Clock for Rainmeter"></a>
   <p>
- Synthwave Style Clock following the style of La Compagnie des Ombres by Milan - [http://madmilov2.deviantart.com/](http://madmilov2.deviantart.com/)
+  Synthwave Style Clock following the style of
+  <a href="https://www.deviantart.com/madmilov2/art/La-Compagnie-des-Ombres-486976404">La Compagnie des Ombres by Milan/MadMilov2</a>
   <br />
   <br />
   <a href="https://github.com/grjsmith/Neon-Synthwave-Clock"><strong>Explore the docs »</strong></a>
