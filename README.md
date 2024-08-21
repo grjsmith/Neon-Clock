@@ -11,7 +11,7 @@
 
 <br />
 <div align="center">
-  <a href="https://github.com/grjsmith/Neon-Synthwave-Clock"><img src="images/Neon_synthwave_clock.png" alt="screenshot of Neon Synthwave Clock for Rainmeter"></a>
+  <a href="https://github.com/grjsmith/Neon-Synthwave-Clock"><img src="images/Neon-synthwave-clock.png" alt="screenshot of Neon Synthwave Clock for Rainmeter"></a>
   <p>
   Synthwave Style Clock following the style of
   <a href="https://www.deviantart.com/madmilov2/art/La-Compagnie-des-Ombres-486976404">La Compagnie des Ombres by Milan/MadMilov2</a>
